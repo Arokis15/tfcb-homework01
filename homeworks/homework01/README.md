@@ -44,7 +44,7 @@ The first time you try doing this, you will get an error asking you to configure
 Use the URL of the GitHub repository you created above to configure the Remote.
 Now you should be able to push any further changes to your repository.
 
-_Include the link to your `tfcb-homework01` GitHub repository here._
+_(https://github.com/Arokis15/tfcb-homework01/tree/main)._
 
 ## Problem 4
 
@@ -65,7 +65,6 @@ This question assesses your ability to write a README with Markdown formatting.
 Create a file called `README.md` and populate with Markdown. Demonstrate headers, lists, links, embedded images (by linking to images contained in the directory) and tables in this readme.
 
 Commit this file and publish to your public GitHub repository.
-
 _Include the link to your `README.md` here.(https://github.com/Arokis15/tfcb-homework01/blob/dc81cf02dd02c69f196eb6e08914b7cf994f447f/homeworks/homework01/%23%23%20vsikora%20example%20README%20document.md)_
 
 ## Problem 6
