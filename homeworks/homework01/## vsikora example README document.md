@@ -16,7 +16,7 @@ Here is a list of the course learning objectives, from what I remember:
 Here is a link to a paper I contributed to in my undergrad: [paper](https://pubmed.ncbi.nlm.nih.gov/37276417/)
 
 ### example embedded image
-Here is an embedded image of an ant. I had to edit the name of the file because the syntax made it hard for vscode to recognize it ![ant copied from repo](homeworks/homework01/messy-project-directory/casent0172345.jpg)
+Here is an embedded image of an ant. I had to edit the name of the file because the syntax made it hard for vscode to recognize it ![ant copied from repo](./messy-project-directory/casent0172345.jpg)
 
 ### example table
 Here is an example table enumerating what ingredients I used for an MCB 1st year cohort pizza party, including vegetarian/vegan status. 
