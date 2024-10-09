@@ -65,7 +65,7 @@ This question assesses your ability to write a README with Markdown formatting.
 Create a file called `README.md` and populate with Markdown. Demonstrate headers, lists, links, embedded images (by linking to images contained in the directory) and tables in this readme.
 
 Commit this file and publish to your public GitHub repository.
-_Include the link to your `README.md` here.(https://github.com/Arokis15/tfcb-homework01/blob/dc81cf02dd02c69f196eb6e08914b7cf994f447f/homeworks/homework01/%23%23%20vsikora%20example%20README%20document.md)_
+_(https://github.com/Arokis15/tfcb-homework01/blob/38c31ea0f895d0b11ce5145e3e418b936af59ac5/homeworks/homework01/vsikora%20README.md)_
 
 ## Problem 6
 
@@ -79,4 +79,4 @@ Export this as a tab-delimited `.csv` text file with Unix line endings.
 
 Commit the modified `.xlsx` file and the `.csv` file and publish to your public GitHub repository.
 
-_Include the link to your `.csv` file on GitHub here._
+_(https://github.com/Arokis15/tfcb-homework01/blob/6fdb127455bef698b10f4100ae96f2f103c8cff2/homeworks/homework01/messy-project-directory/data/CleanedSurveyData.csv)._
